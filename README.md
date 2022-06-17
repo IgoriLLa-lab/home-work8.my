@@ -1,6 +1,5 @@
 ## Домашнее заданее № 8:
 
-- На данный момент получилось после работы с Guzzle Http (не асинхронно) сохранить данные в Cookie c помощью метода setcookie в php. В данном проекте данного кода нет.
 - Делаем на запрос на https://www.cbr-xml-daily.ru/daily_json.js и получаем стоимость доллара.
 - сограняем стоимость в LocalStorage, SessionStorage и Cookie
 ![img_2.png](img_2.png)
